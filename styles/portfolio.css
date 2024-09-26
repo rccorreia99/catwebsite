@@ -1,7 +1,13 @@
-body {
-    font-family: "Playwrite DE Grund", cursive;
+body {font-family: "Playwrite DE Grund", cursive;
     font-optical-sizing: auto;
-    font-weight: <weight>;
     font-style: normal;
-  }
+     background-color: #CBADCE;
+}
+h1{
+    padding: 50px;
+}
+
+
+
   
+ 
