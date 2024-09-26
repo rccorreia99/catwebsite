@@ -7,7 +7,11 @@ h1{
     padding: 50px;
 }
 
+h2{
+    padding: 30px;
+}
 
-
-  
- 
+.img-thumbnail {
+    width:400px ;
+    height: auto;
+}
