@@ -10,7 +10,9 @@ h1{
 h2{
     padding: 30px;
 }
-
+h3{
+    padding: 40px;
+}
 .img-thumbnail {
     width:300px ;
     height: auto;
