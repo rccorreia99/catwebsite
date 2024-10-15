@@ -13,6 +13,9 @@ h2{
 h3{
     padding: 40px;
 }
+footer{
+    padding: 50px;
+}
 .img-thumbnail {
     width:300px ;
     height: auto;
